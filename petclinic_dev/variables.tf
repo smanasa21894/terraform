@@ -1,0 +1,11 @@
+variable "cidr" {}
+variable "envname" {}
+variable "region" {}
+#variable "publicsubnets" {}
+#variable "privatesubnets" {}
+variable "datasubnets" {}
+variable "azs" {}
+variable "ami" {}
+variable "type" {}
+variable "pubsubnets" {}
+variable "prisubnets" {}
